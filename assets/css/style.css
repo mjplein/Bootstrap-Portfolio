@@ -9,6 +9,11 @@ body {
     background-color:rgba(0, 0, 0, 0);
 }
 
+.navbar-brand {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
 .container {
     background-color:rgba(0, 0, 0, 0);
 }
@@ -31,13 +36,6 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-.familyPic {
-    width: 200px;
-    height: 170px;
-    float: right;
-    padding: 5px;
 }
 
 .footer {
@@ -66,7 +64,7 @@ body {
 .fa:hover {
       opacity: 0.8;
 }
-  
+
 .fa-facebook {
     background: #3B5998;
     color: white;
@@ -84,4 +82,11 @@ body {
 
 #invisibleCard {
     background-color:rgba(0, 0, 0, 0);
+}
+
+#mattfamily {
+    width: 391px;
+    height: 260px;
+    float: right;
+    padding: 5px;
 }
