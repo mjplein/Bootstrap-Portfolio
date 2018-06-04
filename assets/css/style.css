@@ -30,12 +30,13 @@ body {
 }
 
 .card-img-top {
-    width: 150px;
-    height: 125px;
+    width: 120px;
+    height: 100px;
     padding: 5px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 5%;
 }
 
 .footer {
@@ -89,4 +90,10 @@ body {
     height: 260px;
     float: right;
     padding: 5px;
+}
+
+#github {
+    width: 25px;
+    height: 25px;
+    float: right;
 }
